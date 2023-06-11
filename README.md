@@ -1,2 +1,2 @@
-# Pratch_VuePractice
+# My Vue Practice
 Created with CodeSandbox
